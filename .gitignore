@@ -22,4 +22,4 @@
 
 #my ignore
 .DS_Store
-./vendor/bandle
+vendor/bundle/
